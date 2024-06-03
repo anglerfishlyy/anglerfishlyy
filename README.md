@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on my own project "projexhub" and on enhancing my frontend skills.
 - 🌱 I’m currently learning backend stacks.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about frontend development.
 - ⚡ Fun fact: Once thought that all people are good in nature.......
 
@@ -28,11 +26,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sam) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sam) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sam)     [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sam) 
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anglerfishlyy&icon=9&color=6)](https://visitcount.itsvg.in)
