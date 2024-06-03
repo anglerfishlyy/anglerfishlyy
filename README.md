@@ -2,7 +2,7 @@
 # Hi...everyone...
 
 - 🔭 I’m currently working on my own project "projexhub" and on enhancing my frontend skills.
-- 🌱 I’m currently learning backend stacks.
+- 🌱 I’m currently trying to learn backend stacks.
 - 💬 Ask me about frontend development.
 - ⚡ Fun fact: Once thought that all people are good in nature.......
 
