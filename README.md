@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on my own project "projexhub" and on enhancing my frontend skills.
 - 🌱 I’m currently trying to learn backend stacks.
 - 💬 Ask me about frontend development.
-- ⚡ Fun fact: Once thought that all people are good in nature.......
 
 # 💻 Tech Stacks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br />
