@@ -1,7 +1,7 @@
 
 # Hi...everyone...
 
-- 🔭 I’m currently working on my own project "projexhub" and on enhancing my frontend skills.
+- 🔭 I’m currently working on my own project "projexhub" and  enhancing my frontend skills.
 - 🌱 I’m currently trying to learn backend stacks.
 - 💬 Ask me about frontend development.
 
