@@ -17,7 +17,8 @@
 # My Projects
 
  Here are some of the projects I have published:
-
+ All projects are completed utilizing React.
+ 
 ## Web Projects
 
 - [React Project(ToDo List)](https://anglerfishlyy.github.io/react-project/)
