@@ -20,7 +20,7 @@
 
 ## Web Projects
 
-- [ToDo List](https://<your-username>.github.io/todo-list)
+- [React Project(ToDo List)](https://anglerfishlyy.github.io/react-project/)
 - [Scroll-Indicator](https://anglerfishlyy.github.io/scroll-indicator/)
 - [Weather App](https://anglerfishlyy.github.io/weather-app/)
 - [Tic-Tak-Toe](https://anglerfishlyy.github.io/tic-tak-toe/)
@@ -29,7 +29,7 @@
 - [QR Code Generator](https://anglerfishlyy.github.io/qr-code-gen/)
 - [Random Color Generator](https://anglerfishlyy.github.io/random-color/)
 - [Scroll Feature](https://anglerfishlyy.github.io/scroll-feat/)
-- [React Project](https://anglerfishlyy.github.io/react-project/)
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=anglerfishlyy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
