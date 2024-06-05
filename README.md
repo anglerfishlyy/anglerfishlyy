@@ -1,6 +1,6 @@
 
 # Hi...everyone...
-
+ I am **kavya.**
 - 🔭 I’m currently working on my own project "projexhub" and  enhancing my frontend skills.
 - 🌱 I’m currently trying to learn backend stacks.
 - 💬 Ask me about frontend development.
