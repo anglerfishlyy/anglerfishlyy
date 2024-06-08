@@ -30,7 +30,7 @@
 - [QR Code Generator](https://anglerfishlyy.github.io/qr-code-gen/)
 - [Random Color Generator](https://anglerfishlyy.github.io/random-color/)
 - [Scroll Feature](https://anglerfishlyy.github.io/scroll-feat/)
-
+- [projexhub]( https://anglerfishlyy.github.io/projexhub/)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=anglerfishlyy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
