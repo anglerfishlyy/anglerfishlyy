@@ -54,9 +54,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sam)     [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sam) 
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anglerfishlyy&icon=9&color=6)](https://visitcount.itsvg.in)
