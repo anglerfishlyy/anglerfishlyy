@@ -11,10 +11,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
  
 </div>
-</br>
-<div>
- [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/3564/badge)](https://www.bestpractices.dev/projects/3564)
-</div>
+
 </details>
 
 
