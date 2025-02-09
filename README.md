@@ -1,4 +1,6 @@
 
+HI.....I am a MERN stack developer (learning other stacks as well) ,  currently working as a software developer @QAAS startup, based out of india. I am very curious about knowing ways to develop software efficiently. 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anglerfishlyy&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
