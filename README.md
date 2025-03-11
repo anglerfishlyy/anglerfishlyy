@@ -18,6 +18,7 @@ HI.....I am a MERN stack developer (learning other stacks as well) ,  currently 
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=anglerfishlyy&icon=9&color=6)](https://visitcount.itsvg.in)
+
+[![k](https://visitcount.itsvg.in/api?id=anglerfishlyy&icon=9&color=6)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
