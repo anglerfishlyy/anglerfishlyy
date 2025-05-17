@@ -116,7 +116,7 @@ If you’re working on something meaningful and need a dedicated contributor, le
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anglerfishlyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Custom Streak](https://img.shields.io/badge/Custom_Streak-🔥%2037%20days-brightgreen?style=for-the-badge)
+![My Streak](https://img.shields.io/badge/Custom_Streak-🔥%2037%20days-brightgreen?style=for-the-badge)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anglerfishlyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
