@@ -116,7 +116,8 @@ If you’re working on something meaningful and need a dedicated contributor, le
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anglerfishlyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![My Streak](https://img.shields.io/badge/Custom_Streak-🔥%2037%20days-brightgreen?style=for-the-badge)
+<img src="https://streak-stats.demolab.com?user=anglerfishlyy&theme=dark&border=DDDDDD" alt="GitHub Streak"/><br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anglerfishlyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -130,5 +131,5 @@ If you’re working on something meaningful and need a dedicated contributor, le
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kavyasam) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@seomagic7) 
 
   <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sam&label=Profile%20Views&color=2&pretty=true" />
+ 
 </a>
