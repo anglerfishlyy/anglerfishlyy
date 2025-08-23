@@ -38,15 +38,6 @@ HI... 🙂 .. I am a MERN stack developer (learning other stacks as well) ,  cur
 
 <br/>
 
-##   🤝 Wanna work with me...?...?..
-<p align="center">
-  <b>Available for freelance work, internships, or remote roles at $15/hour or project-based rates.</b><br/>
-  If you're working on something exciting — let's connect!
-</p>
-
-
-- Email: kavyalegitimate@gmail.com
-- Freelance rates: starting at $15 per hour or negotiable per project
 
 If you’re working on something meaningful and need a dedicated contributor, let’s connect.
 
