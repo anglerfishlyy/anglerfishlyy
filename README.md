@@ -1,5 +1,24 @@
 
-Hi ...... 🙂 I am a B.Tech CSE student at Kshatriya College of Engineering. I’m a MERN stack, Next.js, TypeScript, and Go developer (exploring other stacks) and currently working as a software developer intern at QAAS Startup, India. I’m passionate about building software efficiently and am currently exploring observability backend engineering, distributed systems, logging, metrics, and tracing.
+  
+ # Hi there 👋, I'm Kavya Samudrala.....🙂.....
+
+###  About Me
+I'm a passionate **B.Tech CSE student** at **Kshatriya College of Engineering**.  
+Full-Stack Developer (MERN, Next.js, TypeScript, Go), currently exploring **Observability, Distributed Systems, and Backend Engineering**.  
+Software Developer Intern @ **QAAS Startup**, India.  
+
+I love building efficient software, contributing to **open-source**, and solving real-world problems with code.  
+
+---
+
+### I'm a  
+```diff
++ Full-Stack Developer
++ Open Source Contributor
++ Observability Enthusiast
++ Community Builder (MLSA)
++ SaaS Builder (in progress) 🌟
+```
 <br/>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7387babf8ee37d9beb268f4c19565d01cafd5d195172f87cd914b1abf6ed4610/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a696e64616c70726979616e736875313031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/7387babf8ee37d9beb268f4c19565d01cafd5d195172f87cd914b1abf6ed4610/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a696e64616c70726979616e736875313031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="anglerfishlyy" data-canonical-src="https://komarev.com/ghpvc/?username=anglerfishlyy&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
