@@ -51,6 +51,9 @@ I love building efficient software, contributing to **open-source**, and solving
   <a href="https://stackoverflow.com/users/28338641">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
+  <a href="https://medium.com/@kavyalegitimate">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
 
 
