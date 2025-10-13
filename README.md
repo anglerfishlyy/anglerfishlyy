@@ -21,6 +21,22 @@ I love building efficient software, contributing to **open-source**, and solving
 ```
 <br/>
 
+---
+
+### 🌐 English Proficiency
+<a href="https://www.efset.org/" target="_blank"
+   style="background-color: white; display: inline-block; padding: 6px 8px; border-radius: 6px;">
+  <img align="right" width="120"
+       src="https://a.storyblok.com/f/79503/103x24/3d8037116f/ef-set-logo-nav.svg"
+       alt="EF SET Logo"
+       >
+</a>
+
+Certified **C2 Proficient (EF SET Score: 75/100)** — the **highest CEFR level**, reflecting full professional fluency in English.  
+Skilled in writing, reading, and communicating complex ideas with clarity and precision.  
+📜 [View Official Certificate →](https://cert.efset.org/en/3kwyfV)
+
+---
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7387babf8ee37d9beb268f4c19565d01cafd5d195172f87cd914b1abf6ed4610/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a696e64616c70726979616e736875313031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/7387babf8ee37d9beb268f4c19565d01cafd5d195172f87cd914b1abf6ed4610/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a696e64616c70726979616e736875313031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="anglerfishlyy" data-canonical-src="https://komarev.com/ghpvc/?username=anglerfishlyy&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
 
 <br/>
