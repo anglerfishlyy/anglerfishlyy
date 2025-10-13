@@ -24,12 +24,11 @@ I love building efficient software, contributing to **open-source**, and solving
 ---
 
 ### 🌐 English Proficiency
-<a href="https://www.efset.org/" target="_blank"
-   style="background-color: white; display: inline-block; padding: 6px 8px; border-radius: 6px;">
-  <img align="right" width="120"
-       src="https://a.storyblok.com/f/79503/103x24/3d8037116f/ef-set-logo-nav.svg"
+<a href="https://www.efset.org/" target="_blank">
+  <img align="right" width="120" 
+       src="./eflogo.png" 
        alt="EF SET Logo"
-       >
+       style="padding: 2px 8px; background-color: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); object-fit: cover; height: 28px; object-position: center;">
 </a>
 
 Certified **C2 Proficient (EF SET Score: 75/100)** — the **highest CEFR level**, reflecting full professional fluency in English.  
