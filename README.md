@@ -23,7 +23,7 @@ I love building efficient software, contributing to **open-source**, and solving
 
 ---
 
-### 🌐 English Proficiency
+###  English Proficiency
 <a href="https://www.efset.org/" target="_blank">
   <img align="right" width="120" 
        src="./eflogo.png" 
@@ -36,9 +36,20 @@ Skilled in writing, reading, and communicating complex ideas with clarity and pr
 📜 [View Official Certificate →](https://cert.efset.org/en/3kwyfV)
 
 ---
+
+###  Development Setup
+
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WSL](https://img.shields.io/badge/Terminal-WSL-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+- I write code in **Neovim + VSCodeVim**, blending the **speed of modal editing** with the **flexibility of VS Code**.  
+- Keyboard-driven workflow — no mouse, pure focus.  
+- “Stay in flow, type fast, think faster.”
+
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7387babf8ee37d9beb268f4c19565d01cafd5d195172f87cd914b1abf6ed4610/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a696e64616c70726979616e736875313031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/7387babf8ee37d9beb268f4c19565d01cafd5d195172f87cd914b1abf6ed4610/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a696e64616c70726979616e736875313031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="anglerfishlyy" data-canonical-src="https://komarev.com/ghpvc/?username=anglerfishlyy&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
 
-<br/>
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anglerfishlyy&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
