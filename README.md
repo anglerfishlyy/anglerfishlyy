@@ -4,7 +4,7 @@
 
 ###  About Me
 I'm a Full-Stack Developer (MERN, Next.js, TypeScript, Go), currently exploring **Observability, Distributed Systems, and Backend Engineering** through my [**Grafana contributions.**](https://github.com/grafana/grafana/pulls/anglerfishlyy)<br/>
-**Ex - Software Developer Intern @ [QAAS Startup](https://qclairvoyance.com/), India** 
+**Former Software Developer Intern @ [QAAS Startup](https://qclairvoyance.com/), India** 
 
 I love building efficient software, contributing to **open-source**, and solving real-world problems with code.  
 
