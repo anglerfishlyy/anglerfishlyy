@@ -10,6 +10,9 @@ I love building efficient software, contributing to **open-source**, and solving
 
 ---
 
+<img width="250" height="250" alt="grafana-champion" src="https://github.com/user-attachments/assets/95fef094-e872-4fef-b225-3ca46701abce" />
+
+---
 ### I'm a  
 ```diff
 + Full-Stack Developer
