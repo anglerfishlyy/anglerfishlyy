@@ -49,7 +49,10 @@ Skilled in writing, reading, and communicating complex ideas with clarity and pr
 - Keyboard-driven workflow — no mouse, pure focus.  
 - “Stay in flow, type fast, think faster.”
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7387babf8ee37d9beb268f4c19565d01cafd5d195172f87cd914b1abf6ed4610/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a696e64616c70726979616e736875313031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/7387babf8ee37d9beb268f4c19565d01cafd5d195172f87cd914b1abf6ed4610/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a696e64616c70726979616e736875313031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="anglerfishlyy" data-canonical-src="https://komarev.com/ghpvc/?username=anglerfishlyy&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anglerfishlyy&label=Profile%20Views&style=flat" />
+  <sub>&nbsp;&nbsp;Since Apr 2026 • prev. 5k+</sub>
+</p>
 
 ## 🌐 Socials:
 
