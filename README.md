@@ -24,29 +24,5 @@
 </tr>
 </table>
 
----
-
-<table border="0">
-<tr>
-<td width="50%" valign="top" style="padding-right: 30px;>
-
-### I'm a
-
-```diff
-
-+ Backend & Infrastructure Engineer
-+ Open Source Contributor
-+ Grafana Champion
-+ Full-Stack Developer
-
-```
-
-</td> 
-<td width="50%" valign="top" style="padding-right: 30px;>
-  
-<br/>
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kavyasam) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@seomagic7)
 
-</a>
-</td> </tr> </table> 
