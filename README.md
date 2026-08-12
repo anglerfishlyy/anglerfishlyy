@@ -33,11 +33,14 @@
 ### I'm a
 
 ```diff
+
 + Backend & Infrastructure Engineer
 + Open Source Contributor
 + Grafana Champion
 + Full-Stack Developer
+
 ```
+
 </td> 
 <td width="50%" valign="top" style="padding-right: 30px;>
   
